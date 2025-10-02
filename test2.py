@@ -1,15 +1,15 @@
-print("این ادامه تمرین های من هست")
+print("this is my new practice")
 
 sen=20
 sen_pedar= 50
 
 if sen>20:
     print("hanooz javooni")
-    print("sene pedar",sen_pedar,"bood?")
+    print("sene pedar az",sen_pedar,"rade")
 
 if sen==20:
     print("bozorg shodi")
-    print("sene pedar az",sen_pedar,"rade")
+    print("sene pedar",sen_pedar,"bood?")
 
 if sen<20:
     print("bache saali")
