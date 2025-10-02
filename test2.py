@@ -14,3 +14,8 @@ if sen==20:
 if sen<20:
     print("bache saali")
     print("pedar ham ke",sen_pedar,"nashode")
+
+for i in range (1,101):
+    #In mishe tavan2?
+    print(i,i*i)
+    print("----")
